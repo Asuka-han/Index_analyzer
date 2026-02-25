@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.sqlite
+*.db
+*.parquet
+*.ipynb
+.venv/
+.env
+.vscode/
+.idea/
+.DS_Store
+result/
+backup/
